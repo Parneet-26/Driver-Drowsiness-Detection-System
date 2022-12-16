@@ -1,2 +1,3 @@
 # Title: Driver-Drowsiness-Detection-System
-##1. Methodology\n
+<br />
+## 1. Methodology
