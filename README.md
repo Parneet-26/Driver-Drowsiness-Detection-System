@@ -6,6 +6,8 @@ Driver drowsiness detection is a car safety technology which helps prevent accid
 The aim of this is system to reduce the number of accidents on the road by detecting the drowsiness of the driver and warning them using an alarm.
 ## 3. Input/Output
 ![drowsiness](https://user-images.githubusercontent.com/100441835/208160917-766a4fa9-bfed-4a1f-9224-a2e93026d4c7.png)
-
+The system is showing nothing as the driver is seen as attentive in the image.\
+![drowsiness 1](https://user-images.githubusercontent.com/100441835/208161610-83719e15-83e1-4a6c-b9e9-c2da5e4b7ace.png)
+The system is giving alert message as driver is having closed eyes in the image.
 
 
