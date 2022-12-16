@@ -1,4 +1,5 @@
 # Title: Driver-Drowsiness-Detection-System
 ## 1. Methodology
-hello
+Data Collection-->Model Building-->Model Training-->Model testing-->Test Analysis
+## Description
 
